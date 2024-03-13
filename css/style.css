@@ -1,0 +1,25 @@
+@font-face { font-family: Site-Font; src: url('font/site-font.ttf'); } 
+      h1 {
+         font-family: Site-Font
+      }
+      p {
+        font-family: Site-Font
+     }
+
+body {
+}
+
+body {
+  background-image: url("bg.gif");
+  background-position: center;
+  background-size: 35%;
+  font-family: Site-Font;
+  font-size: 18px;
+  background-color: #211f36;
+  background-attachment: fixed;
+  color: #ffffff;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin: 0;
+}
